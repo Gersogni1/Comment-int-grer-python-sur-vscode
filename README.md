@@ -1,6 +1,6 @@
 # ⚙️ 1. Installer l’extension Python (indispensable)
 
-## 📌 Dans VS Code :
+## 1.1📌 Dans VS Code :
 
 Va dans Extensions (Ctrl + Shift + X)
 Recherche :
@@ -15,7 +15,7 @@ Clique sur Install
 
 ------------------------------------------------------------------------
 
-## 🐍 2. Vérifier que Python est détecté
+## 🐍 1.2. Vérifier que Python est détecté
 
 ``` bash
 python3 --version
@@ -28,7 +28,7 @@ python3 --version
 
 ------------------------------------------------------------------------
 
-## 🎯 3. Sélectionner l’interpréteur Python
+## 🎯 1.3. Sélectionner l’interpréteur Python
 
 ## Très important 🔥
 
@@ -49,7 +49,7 @@ ton environnement venv
 ./venv/bin/python
 ```
 
-### 🧪 4. Créer et utiliser un environnement virtuel
+### 🧪 1.4. Créer et utiliser un environnement virtuel
 
 -   Dans ton projet :
 
@@ -67,7 +67,7 @@ source venv/bin/activate
 👉 re-sélectionne l’interpréteur (très important)
 ------------------------------------------------------------------------
 
-### ▶️ 5. Exécuter ton premier code Python
+### ▶️ 1.5. Exécuter ton premier code Python
 
 -   Crée un fichier :
 
