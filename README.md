@@ -22,16 +22,6 @@ python3 --version
 ```
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies utilisées
-
--   Python 3.14.3
--   Flask
--   Flask-Login
--   Werkzeug
--   MysQl
-
-------------------------------------------------------------------------
-
 
 ## Si ça marche → OK
 ## Sinon, installe Python
